@@ -118,6 +118,7 @@ Before publishing a Shields.io badge:
 
 Use this format for third-party SVGs:
 
+```HTML
 <!--
 Source: [direct link to the original icon or project]
 Creator: [name, or "Not specified by source"]
@@ -126,12 +127,5 @@ License: [license, or "Not specified"]
 Permission terms: [link to applicable terms, if applicable]
 Changes: [brief description, or "None to the visible artwork"]
 -->
-
-
-<!--
-Source: [direct link to the original icon or project]
-Creator/project: [name]
-License: [license and link to its terms]
-Changes: [brief description, or "none"]
--->
+```
 
