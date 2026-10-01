@@ -1,0 +1,23 @@
+<!--
+Source/inspiration: Front cover of the book QBasic by Example
+Source: https://github.com/redgreenshift/assets/tree/main/badges/QBasic-by-Example.svg
+Creator: Jared Ivey
+License: MIT License for Jared Ivey's original artwork
+	https://opensource.org/license/mit
+Changes: Manually recreated as an SVG; based on the book-cover design
+Notice: No ownership is claimed in the underlying book, cover artwork,
+or third-party names and marks
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="20" role="img" aria-label="QBasic">
+  <rect width="48" height="20" fill="#0000AA" />
+
+  <text x="5" y="14"
+        font-family="Arial, Helvetica, 'Liberation Sans', Arimo, 'DejaVu Sans', Verdana, sans-serif"
+        font-size="12px"
+        font-weight="600"
+        font-style="italic"
+        letter-spacing="-0.5px"
+        fill="#FFFFFF">
+    QB<tspan font-size="9">ASIC</tspan>
+  </text>
+</svg>

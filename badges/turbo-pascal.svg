@@ -1,0 +1,27 @@
+<!--
+Source/inspiration: Original design inspired by the colors and monospaced visual style associated with Turbo Pascal on MS-DOS
+Source: https://github.com/redgreenshift/assets/tree/main/badges/turbo-pascal.svg
+Creator: Jared Ivey
+License: MIT License for my original artwork
+	https://opensource.org/license/mit
+Changes: Created from scratch in a text editor
+Notice: No ownership is claimed in the Turbo Pascal name or related third-party marks
+-->
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="100"
+     height="20"
+     viewBox="0 0 100 20"
+     preserveAspectRatio="xMidYMid meet">
+  <rect width="100" height="20" fill="#0000AA"/>
+  <text x="50"
+      y="14"
+      fill="#FFFF55"
+      text-anchor="middle"
+      font-family="Courier New, Courier, Liberation Mono, monospace"
+      font-size="13px"
+      font-weight="bold"
+      textLength="92"
+      lengthAdjust="spacingAndGlyphs">
+    Turbo Pascal
+  </text>
+</svg>
