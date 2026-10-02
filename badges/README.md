@@ -14,8 +14,8 @@ This directory contains a mixture of:
 - Third-party logos and marks
 
 As a result, ownership and reuse rights differ on a file-by-file basis.
-Always consult the SVG attribution comment and [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md)
-before reusing a badge.
+Always consult the SVG attribution comment before reusing a badge.
+See [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md) for a directory-wide index.
 
 ## Usage
 
