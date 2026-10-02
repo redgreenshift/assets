@@ -4,6 +4,19 @@ This folder contains SVG files for custom badges used in GitHub README files acr
 
 Badges here are shared assets rather than project-specific logos or artwork. Project-specific assets belong in their respective project folders.
 
+## Scope
+
+This directory contains a mixture of:
+
+- Original artwork by Jared Ivey
+- Derived artwork based on third-party sources
+- Inspired artwork
+- Third-party logos and marks
+
+As a result, ownership and reuse rights differ on a file-by-file basis.
+Always consult the SVG attribution comment and [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md)
+before reusing a badge.
+
 ## Usage
 
 Reference a badge in a README using its raw GitHub URL:
@@ -48,10 +61,10 @@ Example:
 Before publishing a Shields.io badge:
 
 1. Add the attribution comment to the SVG.
-1. [Base64-encode](https://www.base64encode.org/) the complete SVG, including the attribution comment.
-1. Insert the encoded data into the Shields.io URL.
-1. Verify that the rendered badge displays correctly.
-1. Keep the original attributed SVG in this directory.
+2. [Base64-encode](https://www.base64encode.org/) the complete SVG, including the attribution comment.
+3. Insert the encoded data into the Shields.io URL.
+4. Verify that the rendered badge displays correctly.
+5. Keep the original attributed SVG in this directory.
 
 ## Attribution
 
@@ -79,9 +92,18 @@ Changes: [brief description, or "None to the visible artwork"]
 
 ## Copyright and reuse
 
-The repository-level copyright and reuse statement in
-[`../README.md`](../README.md) does not apply to the files in this
-directory.
+This directory is governed by its own attribution, copyright,
+licensing, trademark, and reuse documentation.
+ 
+Where the documentation in this directory differs from repository-level
+documentation, the documentation in this directory controls for files
+within `badges/`.
+
+This directory intentionally contains files under different copyright,
+license, permission, trademark, and attribution conditions.
+ 
+No single copyright, license, permission grant, or reuse policy applies
+to all files in this directory.
 
 Each badge may contain original artwork, third-party artwork, logos,
 trademarks, or other materials whose rights belong to their respective

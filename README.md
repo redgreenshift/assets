@@ -41,7 +41,7 @@ permission.
 
 The [`badges/`](badges/) directory contains third-party and original badge
 artwork with separate copyright, attribution, licensing, trademark, and
-reuse information. See See [`badges/README.md`](badges/README.md).
+reuse information. See [`badges/README.md`](badges/README.md).
 
 Files in [`third-party/`](third-party/) and other directories identified as containing
 third-party material are not owned by me and are not covered by any

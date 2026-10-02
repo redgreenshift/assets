@@ -2,7 +2,7 @@ The attribution comment inside each SVG is the authoritative file-level
 record. `ATTRIBUTIONS.md` is a convenience index and may summarize the
 same information.
 
-| File | Description | Provenance | License/permission |
+| File | Description | Provenance | License / Terms |
 |---|---|---|---|
 | <img src="logo-microsoft-mono-black.svg" width=32 height=32 /><br>[`logo-microsoft-mono-black.svg`](logo-microsoft-mono-black.svg) | Microsoft logo monochrome black | [SVG Repo](https://www.svgrepo.com/svg/327378/logo-microsoft) | [MIT License](https://www.svgrepo.com/page/licensing/#MIT) |
 | <img src="logo-microsoft-mono-white.svg" width=32 height=32 /><br>[`logo-microsoft-mono-white.svg`](logo-microsoft-mono-white.svg) | Microsoft logo monochrome white | Derived from [SVG Repo](https://www.svgrepo.com/svg/327378/logo-microsoft) | [MIT License](https://www.svgrepo.com/page/licensing/#MIT) |
