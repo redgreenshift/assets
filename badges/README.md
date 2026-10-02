@@ -89,8 +89,8 @@ owners. The presence of a file in this directory does not mean that it
 is owned by Jared Ivey or available for unrestricted reuse.
 
 Do not apply this repository's copyright notice or software license to
-third-party artwork, logos, trademarks, or other material that Jared
-Ivey is not authorized to license. Any license identified for a file
+third-party material or to portions of a badge that Jared Ivey does not
+own or is not authorized to license. Any license identified for a file
 applies only to the rights that the identified creator or distributor is
 authorized to grant.
 

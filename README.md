@@ -40,8 +40,8 @@ repository are © Jared Ivey and are not licensed for reuse without my
 permission.
 
 The [`badges/`](badges/) directory contains third-party and original badge
-artwork with separate attribution, licensing, and trademark information.
-See [`badges/README.md`](badges/README.md).
+artwork with separate copyright, attribution, licensing, trademark, and
+reuse information. See See [`badges/README.md`](badges/README.md).
 
 Files in [`third-party/`](third-party/) and other directories identified as containing
 third-party material are not owned by me and are not covered by any
