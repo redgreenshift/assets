@@ -53,7 +53,15 @@ Before publishing a Shields.io badge:
 1. Verify that the rendered badge displays correctly.
 1. Keep the original attributed SVG in this directory.
 
-## Attribution comment format
+## Attribution
+
+Each SVG contains an attribution comment with its source, creator or
+project, license or permission terms, and changes.
+
+A directory-wide attribution index is maintained in
+[`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
+
+### Attribution comment format
 
 Use this format for third-party SVGs:
 
@@ -121,10 +129,15 @@ See the attribution comment inside each SVG and
 [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md) for file-specific source,
 provenance, license, and permission information.
 
-## Attribution
+Trademark references are used solely for identification,
+compatibility, historical reference, commentary, or descriptive purposes.
 
-Each SVG contains an attribution comment with its source, creator or
-project, license or permission terms, and changes.
+## Documentation precedence
 
-A directory-wide attribution index is maintained in
-[`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
+When documentation differs:
+
+1. The attribution comment embedded in the SVG file is the authoritative
+file-level record.
+2. `ATTRIBUTIONS.md` is a convenience index.
+3. General repository documentation applies only where it does not conflict
+with file-specific documentation.
