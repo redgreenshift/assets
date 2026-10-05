@@ -58,7 +58,7 @@ Some badges are intended to be used as standalone SVG images rather than embedde
 ```
 
 To use a linked badge:
- 
+
 1. Replace `<BADGE_NAME>.svg` with the desired SVG filename.
 2. Replace `<ALT_TEXT>` with descriptive alternative text appropriate for screen readers.
 3. If necessary, replace `main` with the repository's default branch.
@@ -152,14 +152,14 @@ Before publishing a linked badge:
 
 This directory is governed by its own attribution, copyright,
 licensing, trademark, and reuse documentation.
- 
+
 Where the documentation in this directory differs from repository-level
 documentation, the documentation in this directory controls for files
 within `badges/`.
 
 This directory intentionally contains files under different copyright,
 license, permission, trademark, and attribution conditions.
- 
+
 No single copyright, license, permission grant, or reuse policy applies
 to all files in this directory.
 
