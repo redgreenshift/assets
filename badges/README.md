@@ -31,16 +31,16 @@ encoded SVG, even though it is not visible when the badge is rendered.
 Example:
 
 ```markdown
-[![Alt text](https://img.shields.io/badge/Displayed_badge_text.svg?logo=data:image/svg%2bxml;base64,INSERT_BASE64_DATA_HERE)](https://www.example.com)
+![<ALT_TEXT>](https://img.shields.io/badge/<DISPLAYED_BADGE_TEXT>.svg?logo=data:image/svg%2bxml;base64,<INSERT_BASE64_DATA_HERE>)
 ```
 
 To use an embedded badge:
 
 1. Copy the complete SVG source, including the attribution comment.
 2. [Base64-encode](https://www.base64encode.org/) the SVG.
-3. Insert the encoded data into the Shields.io URL.
-4. Replace `Alt text` with text appropriate for screen readers.
-5. Replace `Displayed_badge_text` with the text that should appear on the rendered badge.
+3. Replace `<INSERT_BASE64_DATA_HERE>` with the encoded data in the Shields.io URL.
+4. Replace `<ALT_TEXT>` with descriptive alternative text appropriate for screen readers.
+5. Replace `<DISPLAYED_BADGE_TEXT>` with the text that should appear on the rendered badge.
 6. Verify that the rendered badge displays correctly.
 
 #### Embedded badge size limits
@@ -54,13 +54,16 @@ Always verify that an embedded badge renders correctly before publishing or upda
 Some badges are intended to be used as standalone SVG images rather than embedded in a Shields.io URL.
 
 ```markdown
-![Badge description](https://raw.githubusercontent.com/redgreenshift/assets/main/badges/badge-name.svg)
+![<ALT_TEXT>](https://raw.githubusercontent.com/redgreenshift/assets/main/badges/<BADGE_NAME>.svg)
 ```
 
-Replace `badge-name.svg` with the desired SVG filename, and use alt text that describes the badge.
-
-If the repository's default branch is not `main`, replace `main` with the appropriate branch name.
-For stable references, consider using a commit hash instead of a branch name.
+To use a linked badge:
+ 
+1. Replace `<BADGE_NAME>.svg` with the desired SVG filename.
+2. Replace `<ALT_TEXT>` with descriptive alternative text appropriate for screen readers.
+3. If necessary, replace `main` with the repository's default branch.
+4. Optionally use a commit hash instead of a branch name for a stable reference.
+5. Verify that the rendered badge displays correctly.
 
 ### Examples
 
