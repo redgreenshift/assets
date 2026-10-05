@@ -184,10 +184,10 @@ descriptive purposes. Their inclusion does not imply affiliation with,
 sponsorship by, or endorsement from any referenced project, organization,
 or trademark owner.
 
-For a directory-wide index, see
-[`ATTRIBUTIONS.md`](ATTRIBUTIONS.md). The attribution comment inside each
-SVG is the portable, file-level record; `ATTRIBUTIONS.md` is a
-convenience index and may summarize the same information.
+For a directory-wide index, see [`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
+The attribution comment embedded in each SVG file is the portable,
+file-level record; `ATTRIBUTIONS.md` is a convenience index and may
+summarize the same information.
 
 ## Trademarks and third-party rights
 
@@ -205,12 +205,13 @@ authorized to license. It does not grant permission to use a
 third-party name or trademark beyond what applicable law or the
 trademark owner's policies allow.
 
-See the attribution comment inside each SVG and
-[`ATTRIBUTIONS.md`](ATTRIBUTIONS.md) for file-specific source,
-provenance, license, and permission information.
+See the attribution comment inside each SVG for file-specific
+source, provenance, license, and permission information; for
+convenience, corresponding entries are provided in
+[`ATTRIBUTIONS.md`](ATTRIBUTIONS.md).
 
-Trademark references are used solely for identification,
-compatibility, historical reference, commentary, or descriptive purposes.
+Trademark references are used solely for identification, compatibility,
+historical reference, commentary, or descriptive purposes.
 
 ## Documentation precedence
 
